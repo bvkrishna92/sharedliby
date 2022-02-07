@@ -13,7 +13,7 @@ pipeline {
                      phone("reddy")
                }
             }
-            stage('test') {
+            /*stage('test') {
                steps {
                   resource("baby") 
             }
@@ -25,6 +25,6 @@ pipeline {
                          calculator.mul(20,10)
                 }               
             }  
-         }          
+         }*/         
        }
     }   
